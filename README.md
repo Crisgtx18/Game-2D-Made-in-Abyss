@@ -2,7 +2,7 @@
 
 Prototipo de juego de exploracion 2D inspirado en **Made in Abyss**, hecho en
 **Python + Pygame**. Es la version temprana que despues evoluciono hasta
-[UnderDown](https://github.com/Crisgtx18/Game_Abyss).
+[UnderDown](https://github.com/Crisgtx18/UnderDown).
 
 ## Sistemas del prototipo
 
